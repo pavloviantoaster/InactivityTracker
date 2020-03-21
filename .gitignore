@@ -2,3 +2,4 @@
 *.LOG
 **/*.SchDocPreview
 old-*/
+*.old
