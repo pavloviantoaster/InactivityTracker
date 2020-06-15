@@ -1,1 +1,5 @@
 **History/
+*.LOG
+**/*.SchDocPreview
+old-*/
+*.old
